@@ -59,7 +59,7 @@ div#conteudo{
 
 div#foto{
 	width: 315px;
-	height: 453px;
+	height: auto;
 	float: left;
 }
 
@@ -70,7 +70,7 @@ div#foto img{
 
 div#sobremim{
 	width: 630px;
-	height: 453px;
+	height: auto;
 	float: right;
 }
 
