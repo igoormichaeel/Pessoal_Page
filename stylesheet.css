@@ -104,6 +104,7 @@ div#interesses{
 	width:945px;
 	height: auto;
 	margin: 0 auto;
+	clear: both;
 }
 
 div#interesses h1{
